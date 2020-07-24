@@ -1,0 +1,35 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
+    "@react-google-maps/api": "^1.9.7",
+    "@sendgrid/helpers": "^7.2.0",
+    "@sendgrid/mail": "^7.2.1",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "aos": "^3.0.0-beta.6",
+    "framer-motion": "^1.11.1",
+    "next": "^9.4.4",
+    "node-sass": "^4.14.1",
+    "particles.js": "^2.0.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-particles-js": "^3.2.1",
+    "react-preloaders": "^3.0.3",
+    "react-scroll-parallax": "^2.3.3",
+    "react-sticky": "^6.0.3",
+    "sass": "^1.26.9"
+  },
+  "devDependencies": {
+    "file-loader": "^6.0.0",
+    "url-loader": "^4.1.0"
+  }
+}
