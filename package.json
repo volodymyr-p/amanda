@@ -17,7 +17,7 @@
     "@zeit/next-sass": "^1.0.1",
     "aos": "^3.0.0-beta.6",
     "framer-motion": "^1.11.1",
-    "next": "^9.4.4",
+    "next": "^13.0.3",
     "node-sass": "^4.14.1",
     "particles.js": "^2.0.0",
     "react": "^16.13.0",
